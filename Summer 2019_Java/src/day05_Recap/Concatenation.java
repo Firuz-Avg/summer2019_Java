@@ -2,6 +2,8 @@ package day05_Recap;
 
 public class Concatenation {
 	
+	// i Like lord of the rings
+	// i like it too
 	
 	/*
 	
