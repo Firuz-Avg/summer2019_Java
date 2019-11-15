@@ -3,11 +3,11 @@ package day19_ForLoop;
 public class Tasks {
 	public static void main(String[] args) {
 		
-		 // task01
+		// task01
         
-	    //  for(int i = 1; i <= 10; i++) {
-	    //      System.out.println("the square of "+ i + " is: " + (i * i) );
-	    //  }
+	    for(int i = 1; i <= 10; i++) {
+	         System.out.println("the square of "+ i + " is: " + (i * i) );
+	     }
 	        
 	        
 	        // task02

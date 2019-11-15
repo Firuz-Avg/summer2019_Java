@@ -72,17 +72,12 @@ public class arithmeticOperatoresTraining {
 	
 	
 	
-	
-	
 		
 	}
 	
+
 	
-	
-	
-	
-	
-	
+}
 	
 	
 	
@@ -96,4 +91,4 @@ public class arithmeticOperatoresTraining {
 	
 	
 
-}
+

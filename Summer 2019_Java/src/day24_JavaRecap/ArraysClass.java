@@ -1,5 +1,7 @@
 package day24_JavaRecap;
 
+import java.util.Arrays;
+
 public class ArraysClass {
 	public static void main(String[] args) {
 
@@ -81,6 +83,11 @@ public class ArraysClass {
 			System.out.print(array3[i] + " ");
 		}
 
+		
+		
+	
+		
+		
 	}
 
 }

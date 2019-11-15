@@ -2,7 +2,7 @@
 package Trainings;
 
 import java.util.Scanner;
-
+import java.util.Arrays;
 
 public class TORRIN {
 	
@@ -26,29 +26,29 @@ public class TORRIN {
 //	}
 	         
 	  
-//		String actualUsername = "ABC";
-//		String actualPassword = "123";
-//		
-//		String expectedUserName="abc";
-//		String expectedPassword="123";
-//		
-//		
-//		
-//		
-//		
-//		
-//		if (actualUsername==expectedUserName && actualPassword==expectedPassword) {
-//			System.out.println("You Successfully logged in ");
-//			
-//		} else if (actualUsername != expectedUserName  && actualPassword != expectedPassword) {
-//			System.out.println("You entered invalid username and invalid password");
-//		}
-//		else if (actualUsername != expectedUserName && actualPassword==expectedPassword ) {
-//			System.out.println("You entered Invalid username ");
-//		}else if (actualPassword != expectedPassword) {
-//			System.out.println("You entered invalid password");
-//			
-//		}
+		String actualUsername = "ABC";
+		String actualPassword = "123";
+		
+		String expectedUserName="abc";
+		String expectedPassword="123";
+		
+		
+		
+		
+		
+		
+		if (actualUsername==expectedUserName && actualPassword==expectedPassword) {
+			System.out.println("You Successfully logged in ");
+			
+		} else if (actualUsername != expectedUserName  && actualPassword != expectedPassword) {
+			System.out.println("You entered invalid username and invalid password");
+		}
+		else if (actualUsername != expectedUserName && actualPassword==expectedPassword ) {
+			System.out.println("You entered Invalid username ");
+		}else if (actualPassword != expectedPassword) {
+			System.out.println("You entered invalid password");
+			
+		}
 		
 //		
 //		Scanner scan= new Scanner(System.in);
@@ -64,23 +64,31 @@ public class TORRIN {
 //	}
 //	System.out.println("min value is:"+min);	
 //	
-//		
-        
-	    
-		Scanner scan = new Scanner(System.in);
-	    System.out.println("enter an email: ");
-	    String email = scan.next();
-	    String emailId = email.substring(0, email.indexOf("@"));
-	    String domain = email.substring(email.indexOf("@")+1, email.length());
-	    System.out.println("Email is: " + email);
-	    System.out.println("email id is: " + emailId);
-	    System.out.println("domail is: " + domain);
-		  	
-		  	
-		  	
-	    
+	   
+		
+	
+	  
+		    
+		
+ 
 	    }
-	 }
+	
+	
+		
+	}
+
+	
+
+
+	
+	  
+	
+	
+	
+	
+	
+	
+	 
 
 	
 

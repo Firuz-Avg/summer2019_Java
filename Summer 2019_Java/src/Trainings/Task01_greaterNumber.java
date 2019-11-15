@@ -2,26 +2,25 @@ package Trainings;
 
 public class Task01_greaterNumber {
 	public static void main(String[] args) {
-//		
-//		if: int num1 = 20;  int num3= 30
-//
-//				then   int max=30;
-//
-//				 
-//
-//				if: num1 = 40;  num3 = 100;
-//
-//				then:  max= 100;
-	
-	   int num1 = 20;
-	   int num3 = 30;
-	   int max = num3;
-	   System.out.println(max);
-        
-        int num = 40;
-        int num2 = 100;
-        int max1 = num2;
-        System.out.println(max1);
+
+		
+		for(int i = 1; i <= 5; i++) {
+			
+			System.out.println("I like Pi..."+" ");
+			System.out.println("on days that end in y!");
+		}
+		
+	for( int i = 2; i < 10; i++) {	
+		for(int j = 1; j <= 10; j++) {
+			int result = i*j;
+			System.out.println(i+ " x "+j+" = "+ result);
+			
+		}
+	}	
+		
+		
+		
+		
 	}
 
 }
